@@ -12,23 +12,7 @@ https://adminpanel-hazel.vercel.app/Coins/bitcoin
 
 
 
-## Getting Started with Create React App
 
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### Code Splitting
-
-
-### Analyzing the Bundle Size
-
-
-### Making a Progressive Web App
-
-
-### Advanced Configuration
 
 
 ### Deployment
