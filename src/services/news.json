@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Rebecca Bellan",
+      "title": "Tesla slashes prices for Model S and Model Y in US - TechCrunch",
+      "description": "In its second cost cutting measure of 2023, Tesla slashed Model S and Model Y prices in the U.S. by $5,000 and $10,000, respectively.",
+      "url": "https://techcrunch.com/2023/03/05/tesla-slashes-prices-for-model-s-and-model-y-in-us/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-06-at-2.58.51-PM-e1662509071979.png?resize=1200,745",
+      "publishedAt": "2023-03-06T04:48:20Z",
+      "content": "Tesla has cut the prices of its Model S sedan and Model X SUV in the U.S., according to the company’s website. This is the second time this year that Tesla has slashed prices, and it might be a bid t… [+961 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Southwest Airlines plane hits birds and makes emergency landing in Cuba - The Guardian",
+      "description": "Smoke enters cabin of US Boeing 737 after nose and engine were struck during departure of flight 3923 for Florida",
+      "url": "https://www.theguardian.com/world/2023/mar/06/southwest-airlines-flight-3923-florida-emergency-landing-cuba-bird-strike",
+      "urlToImage": "https://i.guim.co.uk/img/media/e7169d850f0855650481fa18cabc204bf657a01a/0_0_3568_2141/master/3568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09cdd97878cfa3e125b1e96d0734d358",
+      "publishedAt": "2023-03-06T04:34:00Z",
+      "content": "A US jetliner taking off from Cuba had engine trouble after hitting birds and returned to Havana for an emergency landing on Sunday, Cuban authorities said.\r\nSmoke entered the cabin of the plane but … [+910 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WPVI-TV" },
+      "author": null,
+      "title": "Nick's Roast Beef on Cottman Avenue in Northeast Philadelphia closes for good. Here's why - WPVI-TV",
+      "description": "After serving the Northeast for a number of decades, Nick's Roast Beef on Cottman Ave is closing its doors for good.",
+      "url": "https://6abc.com/nicks-roast-beef-closing-cottman-avenue-northeast-philly-woodhaven-road-location/12918439/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12918776_030523-wpvi-nicks-roast-beef-cottman-closing-11pm-CC-vid.jpg?w=1600",
+      "publishedAt": "2023-03-06T04:30:00Z",
+      "content": "PHILADELPHIA (WPVI) -- Good time, good spirits, and good people -- that's how customers described the atmosphere at Nick's Roast Beef in Northeast Philadelphia.\r\n\"A celebration of life today. A lot o… [+1419 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Ganesh Rao",
+      "title": "Stocks that have gained every year for a decade with upside - CNBC",
+      "description": "CNBC Pro screened over 1,500 stocks to find those with positive returns every year for a decade. The three resulting companies are all based in North America.",
+      "url": "https://www.cnbc.com/2023/03/06/stocks-that-have-gained-every-year-for-a-decade-with-upside.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107202985-1677860598825-gettyimages-1247673673-AFP_33AF92F.jpeg?v=1678076751&w=1920&h=1080",
+      "publishedAt": "2023-03-06T04:25:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Foxconn: iPhone maker sees revenue slump as demand weakens - BBC",
+      "description": "Foxconn said its sales fell by more than 11% in February, compared to the same month in 2022.",
+      "url": "https://www.bbc.com/news/business-64858566",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13692/production/_128860597_gettyimages-535492242.jpg",
+      "publishedAt": "2023-03-06T03:59:18Z",
+      "content": "Apple's biggest supplier Foxconn says its revenue last month fell by 11.65% compared to the same period in 2022 due to weaker demand for electronics.\r\nHowever, February revenue was more than $13bn (£… [+2161 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Huileng Tan",
+      "title": "Toblerone chocolate may lose its iconic Swiss mountain logo - Business Insider",
+      "description": "Mondelez is moving some of Toblerone's production to Slovakia — which means that it wouldn't meet Bern's legal definition of \"Swissness.\"",
+      "url": "https://www.businessinsider.com/toblerone-chocolate-may-lose-iconic-swiss-mountain-logo-2023-3",
+      "urlToImage": "https://i.insider.com/6405499037125e0018a12297?width=1200&format=jpeg",
+      "publishedAt": "2023-03-06T02:14:00Z",
+      "content": "Six years after a disastrous modification to the shape of its chocolate bars, Toblerone is set to make yet another change this time, it's looking to drop the iconic image of the Matterhorn mountain f… [+1714 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Former top Credit Suisse shareholder sells full stake in bank - FT - Reuters",
+      "description": "Harris Associates, one of Credit Suisse's <a href=\"https://www.reuters.com/companies/CSGN.S\" target=\"_blank\">(CSGN.S)</a> longest major shareholders, has sold its entire stake in the Swiss bank after losing patience with its strategy to stop persistent losses…",
+      "url": "https://www.reuters.com/markets/europe/former-top-credit-suisse-shareholder-sells-full-stake-bank-ft-2023-03-05/",
+      "urlToImage": "https://www.reuters.com/resizer/QMYYFFjBmHIGCY1G7lQallPzjUI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AHXUERW7AZLHXBTP26EXWCQYF4.jpg",
+      "publishedAt": "2023-03-06T01:16:00Z",
+      "content": "March 5 (Reuters) - Harris Associates, one of Credit Suisse's (CSGN.S) longest major shareholders, has sold its entire stake in the Swiss bank after losing patience with its strategy to stop persiste… [+2282 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Daily Hodl" },
+      "author": "Daily Hodl Staff",
+      "title": "5,170,000,000,000 Shiba Inu (SHIB) Worth $57,283,600 Now In Control of Embattled Crypto Lender - The Daily Hodl",
+      "description": "The bankrupt crypto lender Voyager is not done selling its huge holdings of Shiba Inu (SHIB), according to new on-chain data.",
+      "url": "https://dailyhodl.com/2023/03/05/5170000000000-shiba-inu-shib-worth-57283600-now-in-control-of-embattled-crypto-lender/",
+      "urlToImage": "https://dailyhodl.com/wp-content/uploads/2023/03/shib-shiba-voyager-now.jpg",
+      "publishedAt": "2023-03-06T01:06:49Z",
+      "content": "The bankrupt crypto lender Voyager is not done selling its huge holdings of Shiba Inu (SHIB), according to new on-chain data.\r\nThe analytics firm Lookonchain has released an update on how much crypto… [+1617 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CoinDesk" },
+      "author": "Sam Reynolds, David Z. Morris",
+      "title": "First Mover Asia: Bitcoin Is Stuck Between Silvergate and China - CoinDesk",
+      "description": "The largest crypto by market value hovers above $22.4K as investors mull Silvergate's troubles and anticipate likely encouraging economic data from China. ALSO: CoinDesk columnist David Z. Morris considered the gathering of Etherians at ETHDenver, all working…",
+      "url": "https://www.coindesk.com/markets/2023/03/06/first-mover-asia-bitcoin-is-stuck-between-silvergate-and-china/",
+      "urlToImage": "https://www.coindesk.com/resizer/kXcEEpo-RgSs81Hw9CHER_jokGU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WWCMDJ2YJBGCLDJS2G6Y7JSJX4.jpg",
+      "publishedAt": "2023-03-06T01:06:00Z",
+      "content": "Good morning. Heres whats happening:\r\nPrices: Bitcoin had a flat weekend as the market continued to digest Silvergate, and also readied what will likely be positive economic data from China this week… [+6534 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": "Suzanne Woolley",
+      "title": "Holding Cash Will Be a Winning Strategy in 2023, Investors Say - Bloomberg",
+      "description": "Passive funds and ETFs won’t completely supplant active managers, but their market share will continue to rise.",
+      "url": "https://www.bloomberg.com/news/articles/2023-03-06/how-to-invest-holding-cash-will-be-a-winning-strategy-in-2023-investors-say",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igHBISTlesrs/v0/1200x810.jpg",
+      "publishedAt": "2023-03-06T01:00:00Z",
+      "content": "In 2023, \r\ncash is far from trash. \r\nThat’s the verdict of the 404 professional and retail investors who took part in the latest MLIV Pulse survey. Two-thirds of respondents \r\nsaid the cash in their … [+87 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jihye Lee",
+      "title": "Asia markets rise as investors further digest China's modest growth target - CNBC",
+      "description": "Investors further digested China's modest set growth target and looked ahead to a week of economic data releases and central bank decisions.",
+      "url": "https://www.cnbc.com/2023/03/06/asia-markets-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107173586-1672816947887-gettyimages-1243950317-yuen-hongkong221013_npffG.jpeg?v=1678061919&w=1920&h=1080",
+      "publishedAt": "2023-03-06T00:04:00Z",
+      "content": "David Rosenberg, chief economist and strategist of Rosenberg Research, believes the stock market would see a sustained rally when the labor market starts to contract in three to four months.\r\n\"Right … [+665 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hackaday" },
+      "author": "Dan Maloney",
+      "title": "Links: March 5, 2023 | Hackaday - Hackaday",
+      "description": "Well, we guess it had to happen eventually — Ford is putting plans in place to make its vehicles capable of self-repossession. At least it seems so from a patent application that was publishe…",
+      "url": "https://hackaday.com/2023/03/05/hackaday-links-march-5-2023/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg",
+      "publishedAt": "2023-03-06T00:00:00Z",
+      "content": "Well, we guess it had to happen eventually — Ford is putting plans in place to make its vehicles capable of self-repossession. At least it seems so from a patent application that was published last w… [+4229 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investing.com" },
+      "author": "Oliver Gray",
+      "title": "Dow futures tick lower after first positive week in four By Investing.com - Investing.com",
+      "description": "Dow futures tick lower after first positive week in four",
+      "url": "https://www.investing.com/news/stock-market-news/dow-futures-tick-lower-after-first-positive-week-in-four-3022334",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC0K0YG_L.jpg",
+      "publishedAt": "2023-03-05T23:34:00Z",
+      "content": "By Oliver Gray \r\nInvesting.com - U.S. stock futures were trading slightly lower during Sunday's evening deals, after major benchmark averages finished the week in positive territory as growth stocks … [+711 chars]"
+    },
+    {
+      "source": { "id": null, "name": "San Francisco Chronicle" },
+      "author": "Sarah Ravani",
+      "title": "Amazon to shutter its cashier-less Go convenience stores in S.F. - San Francisco Chronicle",
+      "description": "The retailer’s closure of the four San Francisco stores will shut all of its outlets in the Bay Area. Amazon will also close two stores in Seattle and two in Ne",
+      "url": "https://www.sfchronicle.com/bayarea/article/amazon-go-stores-closing-17820955.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/31/62/13/23536336/12/rawImage.jpg",
+      "publishedAt": "2023-03-05T23:15:28Z",
+      "content": "Amazon has announced it will close all of its cashier-less Go convenience stores in San Francisco on April 1. The closure of four Go stores in San Francisco will shut all physical stores in the Bay A… [+1810 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Teslarati" },
+      "author": "https://www.facebook.com/sim.alva",
+      "title": "Tesla Investor Day was polarizing, but Former Ford CEO came away impressed - TESLARATI",
+      "description": "The former Ford CEO stated that Investor Day, while polarizing, still showed Tesla's leadership in critical areas.",
+      "url": "https://www.teslarati.com/tesla-investor-day-polarizing-former-ford-ceo-impressed/",
+      "urlToImage": "https://www.teslarati.com/wp-content/uploads/2022/11/Tesla-Bot-Optimus-Humanoid-Robot-logo-2-scaled.jpg",
+      "publishedAt": "2023-03-05T23:15:00Z",
+      "content": "For better or worse, Tesla Investor Day was a technical tour de force that involved in-depth discussions on the electric vehicle maker’s plans for the future. Similar to other Tesla live events, howe… [+2101 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Binance execs' texts, documents show plan to avoid US scrutiny - WSJ - Reuters",
+      "description": "Binance, one of the world's largest cryptocurrency exchanges, developed a plan to avoid the threat of prosecution by U.S. authorities as it started an American entity in 2019, the Wall Street Journal reported on Sunday.",
+      "url": "https://www.reuters.com/technology/binance-execs-texts-documents-show-plan-avoid-us-scrutiny-wsj-2023-03-05/",
+      "urlToImage": "https://www.reuters.com/resizer/HiWFJO6U6vWQQi1YeUH2lHTVJgs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z7BTJZYE4BKGVC4EF5QYY72GKA.jpg",
+      "publishedAt": "2023-03-05T23:15:00Z",
+      "content": "March 5 (Reuters) - Binance, one of the world's largest cryptocurrency exchanges, developed a plan to avoid the threat of prosecution by U.S. authorities as it started an American entity in 2019, the… [+2235 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Exclusive: Bridgewater raises new fund strategy less dependent on equities - Reuters",
+      "description": "Bridgewater Associates has raised at least $800 million in recent months for a new fund strategy, regulatory filings show, an additional offering that comes as the hedge fund manager revamps business after founder Ray Dalio <a href=\"/business/finance/ray-dali…",
+      "url": "https://www.reuters.com/markets/us/bridgewater-raises-new-fund-strategy-less-dependent-equities-2023-03-05/",
+      "urlToImage": "https://www.reuters.com/resizer/K-Kv_38e6SCt2fiViUi4TEVoDUI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YNQFD6LKABO3XGE2NGNYUIV754.jpg",
+      "publishedAt": "2023-03-05T23:06:00Z",
+      "content": "NEW YORK, March 5 (Reuters) - Bridgewater Associates has raised at least $800 million in recent months for a new fund strategy, regulatory filings show, an additional offering that comes as the hedge… [+2853 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Fox Business" },
+      "author": "Greg Wehner",
+      "title": "FTX collapse: Bankman-Fried may get flip phone under tougher restrictions - Fox Business",
+      "description": "Prosecutors and attorneys for Sam Bankman-Fried submitted a proposal to the judge overseeing the FTX founder's case, with a list of bail conditions, like the use of a flip phone.",
+      "url": "https://www.foxbusiness.com/economy/ftx-collapse-bankman-fried-flip-phone-tougher-restrictions",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/sam-bankman-fried-1.jpg?ve=1&tl=1",
+      "publishedAt": "2023-03-05T22:41:34Z",
+      "content": "FTX founder Sam Bankman-Fried could be permitted to have a flip-phone for calls and texts only, under a proposal submitted to a judge deciding on bail conditions for the former crypto titan.\r\nBankman… [+3754 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Benzinga" },
+      "author": "Chris Katje",
+      "title": "If You Invested $1,000 In Donald Trump NFTs, Here's How Much You Would Have Now - Benzinga",
+      "description": "Former President Donald Trump made headlines in late 2022 when he revealed a non-fungible token collection. The NFTs were widely criticized, but also saw huge demand from fans and collectors. Here’s how much an investment in the NFTs would be worth today.",
+      "url": "https://www.benzinga.com/markets/cryptocurrency/23/03/31210297/if-you-invested-1-000-in-donald-trump-nfts-heres-how-much-you-would-have-now",
+      "urlToImage": "https://cdn.benzinga.com/files/images/story/2023/03/05/donald_trump_shutter6.jpg?width=1200&height=800&fit=crop",
+      "publishedAt": "2023-03-05T22:36:27Z",
+      "content": "Former President Donald Trump made headlines in late 2022 when he revealed a non-fungible token collection. The NFTs were widely criticized, but also saw huge demand from fans and collectors.\r\nHeres … [+2005 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Steve Mollman",
+      "title": "Scammers are using voice-cloning A.I. tools to sound like victims’ relatives in desperate need of financial help. It’s working. - Fortune",
+      "description": "You know a loved one's voice when you hear it, right? Not anymore, thanks to generative A.I. tools.",
+      "url": "https://fortune.com/2023/03/05/scammers-ai-voice-cloning-tricking-victims-sound-like-relatives-needing-money/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/03/GettyImages-1136999104-e1678053660371.jpg?resize=1200,600",
+      "publishedAt": "2023-03-05T22:12:00Z",
+      "content": "You may very well get a call in the near future from a relative in dire need of help, asking you to send them money quickly. And you might be convinced its them because, well, you know their voice. A… [+2969 chars]"
+    }
+  ]
+}
