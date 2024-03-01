@@ -8,7 +8,7 @@ Includes: Sidebar, DataGrid-of-Cryptos in Persian, FinancialNews,
 
 ## Preview : 
 
-https://adminpanel-hazel.vercel.app/Coins/bitcoin
+https://adminpanel-hazel.vercel.app/
 
 
 
