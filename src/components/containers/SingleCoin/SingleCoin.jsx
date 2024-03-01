@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import market2 from "../../../services/markets.json";
-import { Box, color } from "@mui/system";
+import { Box } from "@mui/system";
 import {
   Button,
   Card,
